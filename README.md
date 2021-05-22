@@ -1,6 +1,6 @@
 # my_calcy
 
-A new Flutter project.
+A new Flutter project. i have created a simple user friendly calculator using the dart programming language.
 
 ## Getting Started
 
